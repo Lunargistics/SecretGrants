@@ -1,0 +1,121 @@
+
+# Lunargistics Corp.
+
+## Project Description
+Lunargistics Corp. handles documentation for the new space economy. From build details to launch instructions our clientle range from space craft manufacturers, launchers, agencies, and entrepreneurs. 
+We intend to port our current platform of SaaS, Document Share, and Plugins to the Secret Network. More implementations will increase the user base of the Secret Network and introduce the DoD and Space industry to the Network as a whole. 
+This will enable SCRT to be used as a throughput token in the platform and we can leverage known protocols for staking in the "LunarSuite" as well. 
+
+Our team has been closely following Ethereum DeFi and Secret Network in the couple years, and met some folks at the btc miami conference this year. Our VP of DLT brought up the Vaults as a primary objective to our platform when it launched.
+
+## Problem / Solution
+Currently space documentation is all over the place analogly, in insecure clouds that disintegrate over time, or are a national security issue if handled inproperly. 
+Leveraging distribution and more-so, the SCRT Network we'll be able to expand upon our business by increasing efficiency (rather than ETH) and providing our clients even more privacy with their docs.
+
+## Detailed product description
+The components of LunarSuite include the 
+> - LunarOrbit Marketplace: 
+   > -  where users buy plugin nfts to leverage Mission Monitoring Plugins,
+   > -  saas nfts to leverage different modules within the suite, 
+   > - medallions to receive incentives for the regenerative economy, 
+   > - and mission certificate nfts that refer to space craft manufacturer missions to invest in)
+
+> - Finances: 
+  > - Wallet View
+  > - Funding Account with CC / Bank Account
+  > - Vault for Staking on ETH, BSC, Poly, IoTex
+  > - Swap is in the Works
+  
+> - Mission Details
+`Users can define their space mission and mint a mission certificate to qualify for a launch`
+
+> - RideShare Module 
+`Users can define their launch needs and get chosen by Launch Providers ( rocket manufactures ) for a launch and pay with CC or Crypto to hold a place
+
+> - Agency 
+`Agencies can provide Go / No Go Status on Launches with Mission Certificate context`
+
+> - Investors 
+`Self Accreditation and investment into missions and companies` 
+
+> -  Crater SDK
+`Regenerative economy for developers who make plugins for mission monitoring`
+
+> -Command Station
+`Provide Access to your account to a superior`
+
+> - Observation Deck
+`Astrophotographer Module for NFT creation / selling`
+
+> - Launch Calander
+`Launchers can choose dates for launch that populate for certified mission specialists.`
+
+## Go-to-Market plan
+As Lunargistics is a clear value proposition for the existing Space industry, we have promoted this effort within the space community for over a year and gained traction with progressive companies and onboarded them into our alpha. 
+
+## Value capture for Secret Network ecosystem
+The main KPIs for Secret Network is TVL (privacy value add to other blockchain ecosystems), number of transactions and number of user (for applications)
+
+## Team members
+* John May VP DLT
+* Logan Golema CTO
+* Trevor Smith Sr. Dev
+* Damir Demirovic BackEnd
+* Danjiel Demirovic Front End
+* Vishal Singh Chief Scientist
+* Dionna Bailey CEO
+
+## Team Website	
+* https://lunargistics.com
+
+## Team's experience
+* John has 10 years coding experience. Mostly doing smart contract development. (DevPost)[https://devpost.com/johhonn]
+* Logan has 15 years coding experience. Mostly he project manages and pays for things now. 
+* Trevor has 15 years coding experience. As Sr. Dev he focuses mainly on day to day deliverables. 
+* Damir has 10 years coding experience and handles all cloud
+* Dan has 3 years coding experience and handles prettify
+* Vishal is a missioned rocket scientist with missions to the moon and orbit
+* Dionna is a 18 year army veteran with 7 years in blockchain leading teams to accumulatively billions in value
+
+We've been a team for 3 years, and are distributed between Texas, New England Area, Serbia, and India
+
+## Team Code Repos
+* https://github.com/Lunargistics
+
+## Team LinkedIn Profiles
+* https://devpost.com/johhonn
+* https://www.linkedin.com/in/logan-ryan-golema-b0161190/
+* https://www.linkedin.com/in/vishal0103/
+* https://www.linkedin.com/in/dionna-bailey-713379b2/
+
+## Development Roadmap
+*We will require 5 months to complete this project.
+* We intend to have 3 developers full-time and 1 part-time, at a total cost of $45,000.
+* We will need one designer throughout for front end and SCRT educational materials for a total cost of $21,600
+* We will need one project manager for the 3 months for a total cost of $22,500.
+* We will need an Enterprise documentation builder for the last month for a total cost of $4,500
+* We will need run off maintenance cost for 5 months totalling $23750 (or $4,750/ month)
+
+> - Total : $117,350
+
+Milestones:
+Phase 1
+* Onboard to SCRT, Dev Documents, etc
+* Implement LunarOrbit MarketPlace &on SCRT (weeks 2 - 5).
+* Implement Finances Module on SCRT (weeks 6 - 8).
+Phase 2
+* Implement Mission Details & Observation Deck on SCRT (weeks 9-11).
+* Implement RideShare & Launch Calander on SCRT (weeks 12 - 14).
+Phase 3
+* Implement Agency & Investors Module on SCRT (14-16)
+* Implement Command Station & Crater SDK on SCRT (16-18) 
+Phase 4
+* Implement Developer Documents for Crater SDK on SCRT (weeks 18-20)
+* Maintenance of LunarSuite on SCRT
+
+Ideally, we can receive payments in 5 disbursements, one at the beginning of the grant, one after implementation of Finances Module,  one at Ride Share & Launch Calendar, one at Command Station & Crater, and last payment when the development documentation and full work is completed.
+
+We would be willing to consider part payment in SCRTs, up to 50%.
+
+## Additional Information
+WE LOVE SCRT AND WOULD LOVE TO BRING OUR BUSINESS TO SCRT NETWORK 
